@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1746286712|12103918299';
+const CACHE_VERSION = '1746287948|13339169965';
 /** @type {string} */
 const CACHE_PREFIX = 'ChecksFinder-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
