@@ -1,2 +1,2 @@
 # ChecksFinderWeb
-ChecksFinder is a game where you avoid mines and collect checks by beating boards! Now on the web!
+A game about revealing tiles and safely marking bombs based on revealed numbers that count the bombs nearby, and collecting AP checks when winning each board.
